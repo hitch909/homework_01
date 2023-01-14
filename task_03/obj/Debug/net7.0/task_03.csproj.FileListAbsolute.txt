@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\homework01\task_03\bin\Debug\net7.0\task_03.exe
+C:\Users\Sasha\Desktop\homework01\task_03\bin\Debug\net7.0\task_03.deps.json
+C:\Users\Sasha\Desktop\homework01\task_03\bin\Debug\net7.0\task_03.runtimeconfig.json
+C:\Users\Sasha\Desktop\homework01\task_03\bin\Debug\net7.0\task_03.dll
+C:\Users\Sasha\Desktop\homework01\task_03\bin\Debug\net7.0\task_03.pdb
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.dll
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\refint\task_03.dll
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.pdb
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\task_03.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\homework01\task_03\obj\Debug\net7.0\ref\task_03.dll
